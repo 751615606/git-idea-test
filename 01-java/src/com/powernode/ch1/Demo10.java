@@ -1,5 +1,5 @@
 package com.powernode.ch1;
 
-public class De{
+public class Demo10{
 
 }
